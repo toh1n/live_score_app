@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>420096620614-sj41p162r1j43uf0ugvoqed4jr32tah6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.420096620614-sj41p162r1j43uf0ugvoqed4jr32tah6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBBDAZVGq9NEJw5yKOKkmXuwQkBjVTzcRY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>420096620614</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.liveScoreApp</string>
+	<key>PROJECT_ID</key>
+	<string>live-score-eb1ba</string>
+	<key>STORAGE_BUCKET</key>
+	<string>live-score-eb1ba.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:420096620614:ios:02ddb8b05beed4b0ab7247</string>
+</dict>
+</plist>

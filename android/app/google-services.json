@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "420096620614",
+    "project_id": "live-score-eb1ba",
+    "storage_bucket": "live-score-eb1ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420096620614:android:a2621b3428874aa9ab7247",
+        "android_client_info": {
+          "package_name": "com.example.live_score"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420096620614-qg436id3g6fj11uhcbu1fescs0b598js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANUWFE_zYfJOT67cSCXMm9bgZb5CDBBSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420096620614-qg436id3g6fj11uhcbu1fescs0b598js.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420096620614-o0nid7kpr8d59mdhnq7lkgermah2s3kk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.liveScore"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420096620614:android:a33f7729afbfce8eab7247",
+        "android_client_info": {
+          "package_name": "com.example.live_score_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420096620614-qg436id3g6fj11uhcbu1fescs0b598js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANUWFE_zYfJOT67cSCXMm9bgZb5CDBBSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420096620614-qg436id3g6fj11uhcbu1fescs0b598js.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420096620614-o0nid7kpr8d59mdhnq7lkgermah2s3kk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.liveScore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
