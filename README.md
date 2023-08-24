@@ -1,16 +1,7 @@
 # live_score_app
 
-A new Flutter project.
+Create a firebase flutter simple app which has 2 screens, one is ‘match list screen’ which shows the list of football matches (see the figure). And these matches are ‘post manually’ by you in your firebase database. (No need to write the post operation of the code).
+After adding in the firebase match lists, then your main target is to ‘get data or get scores of specific matches which are tapped by the user’ from your firebase project. Which are shown in the 2nd / 3rd picture in the description. 
+For example : In your firebase there are 2 match lists added manually like (Arg vs Africa, Italy vs Spain). You can add more match lists whatever you want. And output will be 2 countries' match names (Arg vs Africa), number of goals (2 : 3), running time, (Total time : 90:00).
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="s/1.png" alt="alt text" width="180" height="380"> <img src="s/2.png" alt="alt text" width="180" height="380"> 
